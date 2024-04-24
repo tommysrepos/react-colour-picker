@@ -30,3 +30,15 @@ input{
     display: flex;
     align-items: center;
 }
+
+.counter-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    margin: 0.2rem;
+    height: 2rem;
+}
